@@ -1,0 +1,25 @@
+{
+	"name": "pessek/digest",
+    	"description": "Sends out a digest mail for site and group activity",
+    	"type": "elgg-plugin",
+    	"license": "proprietary",
+	"keywords": [
+		"elgg",
+		"plugin",
+		"notifications",
+		"email"
+	],
+	"authors": [
+		{
+			"name": "Hermand PESSEK",
+			"email": "rhemandaddy@gmail.com"
+		}
+	],
+	"extra": {
+		"installer-name": "digest"
+	},
+    	"require": {
+		"php": ">=7.1",
+		"composer/installers": "~1.0"
+	}
+}
